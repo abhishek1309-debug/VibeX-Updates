@@ -1,9 +1,9 @@
 
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "changelog": "Initial VibeX release.",
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "changelog": "Improved Home screen design and sticky header, restored the purple/pink ambient background, fixed VibeX Together keyboard visibility, improved video playback timeline and seeking, portrait and landscape transitions, queue stability, video rendering, buffering, and overall playback stability.",
   "apkUrl": "https://github.com/abhishek1309-debug/VibeX-Updates/releases/latest/download/VibeX.apk",
-  "sha256": "29EDCC3FB80A7C5F428913982AC4A0E6E0359E03E841C7F51D2E9D0D7E1D18D2",
+  "sha256": "D77ED7C21A4842317FBBFB9ABDBE2D980816B7400C7A95E435E69D873E1BE335",
   "mandatory": false
 }
