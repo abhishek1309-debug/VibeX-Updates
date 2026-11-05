@@ -1,0 +1,9 @@
+
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "changelog": "Initial VibeX release.",
+  "apkUrl": "https://github.com/abhishek1309-debug/VibeX-Updates/releases/latest/download/VibeX.apk",
+  "sha256": "29EDCC3FB80A7C5F428913982AC4A0E6E0359E03E841C7F51D2E9D0D7E1D18D2",
+  "mandatory": false
+}
