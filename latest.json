@@ -1,8 +1,8 @@
-{
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "changelog": "Added immersive YouTube video playback with auto-hiding controls, user-controlled Fit and Fill video zoom modes with pinch gestures, high-speed YouTube audio and progressive video downloads with offline library integration, unified Albums playlist, and VibeX Together QR code scanning and synchronization improvements.",
+﻿{
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "changelog": "Fixed YouTube audio-to-video playback timeline oscillation and jumping. Added bidirectional video synchronization, persistent global mini-player across all screens with keyboard auto-docking, YouTube channel pages with video sorting, Fit/Fill video zoom, and VibeX Together improvements.",
   "apkUrl": "https://github.com/abhishek1309-debug/VibeX-Updates/releases/latest/download/VibeX.apk",
-  "sha256": "3CA16058403854D09D7D0FE27C67271545C8C6EDF8379E1A224EA1E4BDFFC288",
+  "sha256": "08D83DB17C3100230271EF1508071294B654211B06D4718986D480315E9561BA",
   "mandatory": false
 }
