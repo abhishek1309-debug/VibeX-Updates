@@ -1,9 +1,8 @@
-
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "changelog": "Improved Home screen design and sticky header, restored the purple/pink ambient background, fixed VibeX Together keyboard visibility, improved video playback timeline and seeking, portrait and landscape transitions, queue stability, video rendering, buffering, and overall playback stability.",
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "changelog": "Added immersive YouTube video playback with auto-hiding controls, user-controlled Fit and Fill video zoom modes with pinch gestures, high-speed YouTube audio and progressive video downloads with offline library integration, unified Albums playlist, and VibeX Together QR code scanning and synchronization improvements.",
   "apkUrl": "https://github.com/abhishek1309-debug/VibeX-Updates/releases/latest/download/VibeX.apk",
-  "sha256": "D77ED7C21A4842317FBBFB9ABDBE2D980816B7400C7A95E435E69D873E1BE335",
+  "sha256": "3CA16058403854D09D7D0FE27C67271545C8C6EDF8379E1A224EA1E4BDFFC288",
   "mandatory": false
 }
