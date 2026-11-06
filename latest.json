@@ -1,8 +1,8 @@
 ﻿{
-  "versionCode": 4,
+  "versionCode": 5,
   "versionName": "1.0.3",
-  "changelog": "Fixed YouTube audio-to-video playback timeline oscillation and jumping. Added bidirectional video synchronization, persistent global mini-player across all screens with keyboard auto-docking, YouTube channel pages with video sorting, Fit/Fill video zoom, and VibeX Together improvements.",
+  "changelog": "Maintenance update: improved fullscreen and zoom control positioning in portrait and landscape video playback.",
   "apkUrl": "https://github.com/abhishek1309-debug/VibeX-Updates/releases/latest/download/VibeX.apk",
-  "sha256": "08D83DB17C3100230271EF1508071294B654211B06D4718986D480315E9561BA",
+  "sha256": "196E1D4369431685897FD125DD29F5835CF7E4678186C4E0A80955888A87A934",
   "mandatory": false
 }
