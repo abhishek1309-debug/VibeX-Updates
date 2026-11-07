@@ -1,8 +1,8 @@
-﻿{
+{
   "versionCode": 5,
   "versionName": "1.0.3",
-  "changelog": "Maintenance update: improved fullscreen and zoom control positioning in portrait and landscape video playback.",
+  "changelog": "Maintenance update: Fixed YouTube channel browsing, channel ID extraction, creator navigation and channel search results.",
   "apkUrl": "https://github.com/abhishek1309-debug/VibeX-Updates/releases/latest/download/VibeX.apk",
-  "sha256": "196E1D4369431685897FD125DD29F5835CF7E4678186C4E0A80955888A87A934",
+  "sha256": "9C6AF281F9E7434B86621742804385B1F64868B4382EEB353A20A62532C72AB7",
   "mandatory": false
 }
