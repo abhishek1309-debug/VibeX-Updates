@@ -1,8 +1,8 @@
 {
   "versionCode": 6,
   "versionName": "1.0.4",
-  "changelog": "VibeX 1.0.4: YouTube channel browsing fixes, native Sound Effects and Equalizer, improved audio processing lifecycle, and simplified UI.",
+  "changelog": "VibeX 1.0.4: YouTube channel browsing fixes, native Sound Effects and Equalizer, improved audio processing lifecycle, and redesigned Settings and Sound Effects interfaces.",
   "apkUrl": "https://github.com/abhishek1309-debug/VibeX-Updates/releases/latest/download/VibeX.apk",
-  "sha256": "8105a1522476a957168034f117a91a3b2fb72e32b702b70b78443acd76e3095a",
+  "sha256": "0346b432da9c50687ebbb75d25b0796f86554e02d3599545913c8b059ce571c7",
   "mandatory": false
 }
