@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.3",
-  "changelog": "Maintenance update: Fixed YouTube channel browsing, channel ID extraction, creator navigation and channel search results.",
+  "versionCode": 6,
+  "versionName": "1.0.4",
+  "changelog": "VibeX 1.0.4: YouTube channel browsing fixes, native Sound Effects and Equalizer, improved audio processing lifecycle, and simplified UI.",
   "apkUrl": "https://github.com/abhishek1309-debug/VibeX-Updates/releases/latest/download/VibeX.apk",
-  "sha256": "9C6AF281F9E7434B86621742804385B1F64868B4382EEB353A20A62532C72AB7",
+  "sha256": "8105a1522476a957168034f117a91a3b2fb72e32b702b70b78443acd76e3095a",
   "mandatory": false
 }
