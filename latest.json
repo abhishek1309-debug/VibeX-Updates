@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.4",
-  "changelog": "VibeX 1.0.4: YouTube channel browsing fixes, native Sound Effects and Equalizer, improved audio processing lifecycle, and redesigned Settings and Sound Effects interfaces.",
+  "versionCode": 7,
+  "versionName": "1.0.5",
+  "changelog": "VibeX 1.0.5: Improved YouTube My YouTube tab reliability, fixed empty-feed caching, optimized tab switching, refined API quota management, and enhanced authentication and error recovery.",
   "apkUrl": "https://github.com/abhishek1309-debug/VibeX-Updates/releases/latest/download/VibeX.apk",
-  "sha256": "0346b432da9c50687ebbb75d25b0796f86554e02d3599545913c8b059ce571c7",
+  "sha256": "c807d7e9ba6d4c95cb78a31b8095792997cc424bc5828ee29532db04d410f7d5",
   "mandatory": false
 }
