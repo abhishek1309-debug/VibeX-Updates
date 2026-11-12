@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
+  "versionCode": 9,
   "versionName": "1.0.6",
-  "changelog": "VibeX 1.0.6: 74% smaller APK via R8 & WebP, smooth Coil image caching, optimized player rendering, fixed song loop/repeat modes, and improved playback reliability.",
+  "changelog": "VibeX 1.0.6: Fixed Search keyboard layout with fixed bottom navigation, restored mini-player playback progress timeline, optimized player rendering, and improved playback reliability.",
   "apkUrl": "https://github.com/abhishek1309-debug/VibeX-Updates/releases/latest/download/VibeX.apk",
-  "sha256": "c069055735b812900e9984c2db9e9b42ca89bbe11784ffe66258753185f8a032",
+  "sha256": "6b93205ce2ac108a1eebddcfdbeeb08986c84dad73e127731d9f0f02cd40f133",
   "mandatory": false
 }
