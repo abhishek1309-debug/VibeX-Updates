@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.5",
-  "changelog": "VibeX 1.0.5: Improved YouTube My YouTube tab reliability, fixed empty-feed caching, optimized tab switching, refined API quota management, and enhanced authentication and error recovery.",
+  "versionCode": 8,
+  "versionName": "1.0.6",
+  "changelog": "VibeX 1.0.6: 74% smaller APK via R8 & WebP, smooth Coil image caching, optimized player rendering, fixed song loop/repeat modes, and improved playback reliability.",
   "apkUrl": "https://github.com/abhishek1309-debug/VibeX-Updates/releases/latest/download/VibeX.apk",
-  "sha256": "c807d7e9ba6d4c95cb78a31b8095792997cc424bc5828ee29532db04d410f7d5",
+  "sha256": "c069055735b812900e9984c2db9e9b42ca89bbe11784ffe66258753185f8a032",
   "mandatory": false
 }
