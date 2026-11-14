@@ -1,8 +1,8 @@
-{
-  "versionCode": 9,
-  "versionName": "1.0.6",
-  "changelog": "VibeX 1.0.6: Fixed Search keyboard layout with fixed bottom navigation, restored mini-player playback progress timeline, optimized player rendering, and improved playback reliability.",
+﻿{
+  "versionCode": 10,
+  "versionName": "1.0.7",
+  "changelog": "VibeX 1.0.7: Replaced Songs filter tab with dedicated Trending tab featuring India and Worldwide charts with progressive 5-song loading. Replaced raw search keywords with actual selected Recent Songs metadata.",
   "apkUrl": "https://github.com/abhishek1309-debug/VibeX-Updates/releases/latest/download/VibeX.apk",
-  "sha256": "6b93205ce2ac108a1eebddcfdbeeb08986c84dad73e127731d9f0f02cd40f133",
+  "sha256": "afb927654deb15ce0e925e6d902881b4d875ebc1488bf2727fc40b9a7671ed0f",
   "mandatory": false
 }
